@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    &__input {
+        display: flex;
+        margin-top: 43px;
+    }
+    &__descr {
+        height: 50px;
+        display: flex;
+        align-items: center;
+        margin-right: 15px;
+        font-size: 16px;
+        font-weight: 700;
+    }
+}

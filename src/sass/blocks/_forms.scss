@@ -1,0 +1,26 @@
+.feed-form {
+    
+    input {
+        border: 1px solid #D8D8D8;
+        border-radius: 25px;
+        min-height: 50px;
+        width: 418px;
+
+        
+    }
+    &_w150 {
+        input {
+            width: 150px;
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+            cursor: pointer;
+            font-weight: 700;
+            background-color: #ffffff;
+            font-size: 16px;
+            
+        }
+        
+       
+    }
+}
